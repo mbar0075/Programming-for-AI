@@ -60,5 +60,5 @@ class Deck(Card):
 
 ## Deliverables:
 The repository includes :<br />
-1. Python Notebooks - directory which holds various Python Notebook
-2. City Web Portal - Web Project which utilises Python Flask
+1. [Python Notebooks](https://github.com/mbar0075/Programming-for-AI/tree/main/Python%20Notebooks) - directory which holds various Python Notebook
+2. [City Web Portal](https://github.com/mbar0075/Programming-for-AI/tree/main/City%20Web%20Portal) - Web Project which utilises Python Flask
